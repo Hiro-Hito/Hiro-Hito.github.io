@@ -2,7 +2,7 @@
 title: Mon super site
 ---
 
-#Intro  
+# Intro  
 Ma super intro
 
 [retour à la page d'accueil](./index.md)
